@@ -2,7 +2,7 @@
 
 Download or clone this repository.
 
-git clone https://github.com/yourusername/cashier-system.git
+git clone https://github.com/raltom1/cashier-system.git
 
 
 Open the folder in VS Code or any code editor.
